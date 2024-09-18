@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:tunes/models/tunes_model.dart';
-import 'package:tunes/view/screen/widgets/tunes_items.dart';
+import 'package:tunes/view/widgets/tunes_items.dart';
 
 class Tunesview extends StatelessWidget {
   const Tunesview({super.key});
